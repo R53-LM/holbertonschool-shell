@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -lh /root
+ls -lan ./root
