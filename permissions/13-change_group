@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod -c 070 school hello
+chgrp school hello
