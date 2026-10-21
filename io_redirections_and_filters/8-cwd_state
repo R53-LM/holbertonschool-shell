@@ -1,1 +1,2 @@
 #!/bin/bash
+cat > ls_cwd_content  echo $(ls -la)
