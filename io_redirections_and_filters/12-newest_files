@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -S --sort=WORD | sort 
+ls -t -1 | head -n 10
