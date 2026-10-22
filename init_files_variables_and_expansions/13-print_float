@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $((2x$NUM))
+echo $((NUM*2))
