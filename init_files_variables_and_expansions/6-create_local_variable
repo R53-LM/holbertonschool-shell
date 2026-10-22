@@ -1,0 +1,2 @@
+#!/bin/bash
+ma_var="School" | export MA_GLOBALE="Best" | echo "[$ma_var] [$MA_GLOBALE]"
